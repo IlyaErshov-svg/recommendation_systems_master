@@ -144,3 +144,5 @@ dmypy.json
 *.json
 *.xml
 *.parquet
+
+CLAUDE.md
